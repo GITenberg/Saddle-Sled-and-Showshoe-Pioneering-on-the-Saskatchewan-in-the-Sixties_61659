@@ -1,16 +1,21 @@
 _repo: Saddle-Sled-and-Showshoe-Pioneering-on-the-Saskatchewan-in-the-Sixties_61659
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Laughlin, J. E.
     gutenberg_agent_id: '9795'
     url: http://www.gutenberg.org/2009/agents/9795
+covers:
+- cover_type: archival
+  image_path: 61659-h/images/img-cover.jpg
 creator:
   author:
     agent_name: McDougall, John
     gutenberg_agent_id: '51546'
     url: http://www.gutenberg.org/2009/agents/51546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61659#Saddle-Sled-and-Showshoe-Pioneering-on-the-Saskatchewan-in-the-Sixties
 gutenberg_issued: '2020-03-23'
 gutenberg_type: Text
 identifiers:
